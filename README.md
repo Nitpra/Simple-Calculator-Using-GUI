@@ -25,3 +25,8 @@ To launch the app, navigate to the folder where you have saved the `calculator.p
 `python calculator.py`
 
 You will see a window with a calculator interface. You can use your mouse or keyboard to enter numbers and operators. Press the = button or the Enter key to see the result. Press the C button or the Backspace key to clear the input field.
+
+
+## Below you will be able to watch a short video of it
+https://github.com/Nitpra/Simple-Calculator-Using-GUI/assets/107783629/69fd0b4f-0edf-44e6-a55b-40ca7781b493
+
